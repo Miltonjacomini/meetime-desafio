@@ -24,9 +24,9 @@ public class PipedriveService {
 
     private static final Logger logger = LoggerFactory.getLogger(PipedriveService.class);
 
-    private static final String URL_PIPE_DEAL = "https://teste47.pipedrive.com/v1/deals?api_token=98d426ad9243ead2badedc3ee1d84845650858fe";
-    private static final String URL_PIPE_PERSONS = "https://teste47.pipedrive.com/v1/persons?api_token=98d426ad9243ead2badedc3ee1d84845650858fe";
-    private static final String URL_PIPE_ORGANIZATIONS = "https://teste47.pipedrive.com/v1/organizations?api_token=98d426ad9243ead2badedc3ee1d84845650858fe";
+    private static final String URL_PIPE_DEAL = "https://teste47.pipedrive.com/v1/deals?api_token=x";
+    private static final String URL_PIPE_PERSONS = "https://teste47.pipedrive.com/v1/persons?api_token=x";
+    private static final String URL_PIPE_ORGANIZATIONS = "https://teste47.pipedrive.com/v1/organizations?api_token=x";
 
     private RestTemplate restTemplate;
 
